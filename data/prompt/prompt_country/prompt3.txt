@@ -1,0 +1,7 @@
+Given this question:
+
+```
+{question}
+```
+
+You live in {nation} and has its corresponding nationality. Answer above question directly!

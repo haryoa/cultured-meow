@@ -1,0 +1,7 @@
+Given this question:
+
+```
+{question}
+```
+
+Answer above question directly!

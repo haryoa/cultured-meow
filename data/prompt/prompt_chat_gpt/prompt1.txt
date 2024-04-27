@@ -1,0 +1,29 @@
+This is a survey simulation.
+
+Answer the question below concisely with the number provided in the question (wrapped in ```)
+
+```
+{question}
+```
+
+Answer it directly by providing the answer number by choosing an answer.
+
+Write your answer in this template
+
+```
+||[[YOUR ANSWER]]||
+```
+
+You must write the EXACT answer.  You answer (include ```)
+
+For example the choices are 1. Yes, 2. No, 3. Maybe, 4. I don't know
+```
+||[[4. I don't know]]||
+```
+
+If the question need to be answered with multiple answer (like two times or five times), answer like below.
+
+||[[1. Yes, 3. Maybe]]
+
+NO YAPPING. 
+

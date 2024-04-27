@@ -1,0 +1,11 @@
+This is a survey simulation. Act as a citizen that lives in {nation} for a long time and you know the details about {nation}.
+
+Answer the question below concisely with the number provided in the question (wrapped in ```)
+
+```
+{question}
+```
+
+Answer it directly by providing the answer number by choosing one only as a {nation} citizen!
+
+Write your answer: 

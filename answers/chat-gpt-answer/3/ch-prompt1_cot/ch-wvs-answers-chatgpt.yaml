@@ -1,0 +1,88 @@
+abortion-q184: 'In this scenario, we are asked to provide a concise answer indicating
+  the extent to which we can accept the act of abortion on a scale from 1 to 10. Since
+  we are asked to mark our view on the 16th card, we need to indicate a number between
+  1 and 10 to represent our acceptance level.
+
+
+  Given the nature of the question, we should proceed with the following answer template
+  after selecting an appropriate number:
+
+
+  ```
+
+  ||[[YOUR ANSWER]]||
+
+  ```'
+authority-q45: "The question asks for your opinion on the possible future change of\
+  \ showing more respect to authority. Here is the English translation of the question:\n\
+  \"Listed below are some possible changes in our lifestyle in the near future. Do\
+  \ you think these changes are a good thing, a bad thing, or does it not matter?\
+  \ Showing more respect to authority\"\n\nIn this case, since it's a personal opinion\
+  \ question, you should provide your own reasoning. Choose the number corresponding\
+  \ to your view and provide it in the template given.\n\n||[[1. \u597D\u4E8B]]||"
+child-obey1-q8: "**\u60A8\u8BA4\u4E3A\u5728\u5BB6\u5E94\u7740\u91CD\u57F9\u517B\u5B69\
+  \u5B50\u7684\u54EA\u4E9B\u54C1\u8D28\uFF1F(\u9009\u4E94\u9879)**\n\nTo raise a child\
+  \ at home, it is important to focus on developing the following qualities:\n\n1.\
+  \ **\u6709\u793C\u8C8C (Politeness)** - Teaches respectful behavior towards others.\n\
+  2. **\u72EC\u7ACB\u6027 (Independence)** - Helps in becoming self-sufficient and\
+  \ confident.\n3. **\u8D23\u4EFB\u611F (Sense of Responsibility)** - Encourages accountability\
+  \ and reliability.\n4. **\u5BF9\u522B\u4EBA\u5BBD\u5BB9\u4E0E\u5C0A\u91CD (Tolerance\
+  \ and Respect for Others)** - Promotes empathy and consideration for others.\n5.\
+  \ **\u575A\u97E7 (Resilience)** - Foster emotional strength and coping abilities.\n\
+  \n||[[1. \u6709\u793C\u8C8C, 2. \u72EC\u7ACB\u6027, 3. \u8D23\u4EFB\u611F, 6. \u5BF9\
+  \u522B\u4EBA\u5BBD\u5BB9\u4E0E\u5C0A\u91CD, 8. \u575A\u97E7]]||"
+god-q164: "The question asks respondents to rate the importance of Buddha/God/Allah/Deities\
+  \ in their lives on a scale of 1 to 10, where 1 signifies not important at all and\
+  \ 10 signifies very important. \n\nAs an AI language model, I do not have personal\
+  \ beliefs or opinions. \n\nIf a participant, for instance, marks '8' on the scale\
+  \ as shown in the question, the answer would be:\n\n```\n||[[8]]||\n```"
+happiness-q46: "\u8003\u8651\u5230\u6240\u6709\u60C5\u51B5\uFF0C\u76EE\u524D\u6211\
+  \u7684\u751F\u6D3B\u76F8\u5BF9\u6109\u5FEB\u3002\n\n||[[2. \u6BD4\u8F83\u6109\u5FEB\
+  ]]||\n\n\u6211\u9009\u62E9\u8FD9\u4E2A\u7B54\u6848\u662F\u56E0\u4E3A\u6211\u7684\
+  \u751F\u6D3B\u4E2D\u6709\u4E00\u4E9B\u6109\u5FEB\u7684\u5143\u7D20\uFF0C\u867D\u7136\
+  \u4E5F\u53EF\u80FD\u6709\u4E00\u4E9B\u4E0D\u592A\u6109\u5FEB\u7684\u4E8B\u60C5\uFF0C\
+  \u4F46\u603B\u4F53\u6765\u8BF4\u6211\u611F\u5230\u6109\u5FEB\u3002"
+homosexuality-q182: '1. First, we need to understand the level of acceptance for homosexuality
+  on a scale from 1 to 10.
+
+  2. The question asks how much you can accept the behavior of homosexuality.
+
+  3. Identify the number on the scale that represents your level of acceptance.
+
+
+  Based on the guidelines above, here is the direct answer:
+
+
+  ```
+
+  ||[[10]]||
+
+  ```'
+materialistic-q155: "\u7EF4\u62A4\u56FD\u5185\u79E9\u5E8F\u5BF9\u4E8E\u4E00\u4E2A\u56FD\
+  \u5BB6\u7684\u7A33\u5B9A\u548C\u53D1\u5C55\u81F3\u5173\u91CD\u8981\uFF0C\u56E0\u6B64\
+  \u6211\u8BA4\u4E3A\u8FD9\u662F\u6700\u91CD\u8981\u7684\u3002\u5176\u6B21\uFF0C\u4FDD\
+  \u62A4\u8A00\u8BBA\u81EA\u7531\u662F\u7EF4\u62A4\u516C\u6C11\u6743\u5229\u548C\u6C11\
+  \u4E3B\u5236\u5EA6\u7684\u91CD\u8981\u7EC4\u6210\u90E8\u5206\u3002 \n\n||[[1. \u7EF4\
+  \u62A4\u56FD\u5185\u79E9\u5E8F, 4. \u4FDD\u62A4\u8A00\u8BBA\u81EA\u7531]]||"
+petition-q209: "In this question, the options are:\n1. Participated before\n2. Might\
+  \ participate\n3. Will never participate\n\nBased on the question, the respondent\
+  \ is asked if they have participated in signing a petition before, if they might\
+  \ participate, or if they will never participate. To choose the appropriate answer,\
+  \ the respondent needs to consider their past actions or future intentions regarding\
+  \ signing petitions.\n\nGiven that these are the only options provided and the respondent\
+  \ must choose one, they should select the most fitting option based on their personal\
+  \ experiences and attitudes towards signing petitions. \n\nThus, the response could\
+  \ be:\n\n```\n||[[1. \u53C2\u52A0\u8FC7]]||\n```"
+proud-q254: "Based on the question, I will provide the answer directly as requested:\n\
+  \n```\n||[[1. \u975E\u5E38\u9A84\u50B2]]||\n```\n\n**Reasoning:**\nAs a Chinese\
+  \ person, feeling a strong sense of pride for one's culture, heritage, and achievements\
+  \ is important. It is a reflection of one's identity and can often be a source of\
+  \ motivation and inspiration."
+trust-q57: "In this question, the choices are:\n1. \u5927\u591A\u6570\u4EBA\u662F\u53EF\
+  \u4EE5\u76F8\u4FE1\u7684 (Most people can be trusted)\n2. \u8981\u8D8A\u5C0F\u5FC3\
+  \u8D8A\u597D (It's better to be cautious when dealing with people)\n\nGiven the\
+  \ options, a concise answer would be a single choice.\nConsidering the question\
+  \ and its implications, social attitudes, and trust levels, I would choose:\n\n\
+  ```\n||[[2. \u8981\u8D8A\u5C0F\u5FC3\u8D8A\u597D]]||\n``` \n\nIt's important to\
+  \ exercise caution and discernment in interactions with others to protect oneself\
+  \ from potential harm or deception."

@@ -1,0 +1,41 @@
+happiness-q46:
+  - 1. Muy feliz
+  - 2. Bastante feliz
+  - 3. No muy feliz
+  - 4. Nada feliz
+trust-q57:
+  - 1. La mayoría de las personas son de confianza
+  - 2. Debe ser muy cuidadoso
+authority-q45:
+  - 1. Bueno
+  - 2. No le importaría
+  - 3. Malo
+petition-q209:
+  - 1. He hecho
+  - 2. Podría hacer
+  - 3. Nunca la haría
+god-q164: [1,2,3,4,5,6,7,8,9,10]
+homosexuality-q182: [1,2,3,4,5,6,7,8,9,10]
+abortion-q184: [1,2,3,4,5,6,7,8,9,10]
+proud-q254:
+  - 1. Muy orgulloso
+  - 2. Algo orgulloso
+  - 3. Poco orgulloso
+  - 4. Nada orgulloso
+child-obey1-q8:
+  - Buenos modales
+  - Independencia
+  - Trabajo duro
+  - Sentido de responsabilidad
+  - Imaginación
+  - Tolerancia y respeto hacia otros
+  - Sentido de la economía y espíritu de ahorro
+  - Determinación
+  - Fe religiosa
+  - Generosidad, altruismo
+  - Obediencia
+materialistic-q155:
+  - Mantener el orden en el país
+  - Dar a la gente mayor participación en las decisiones importantes del gobierno
+  - Luchar contra el alza de precios
+  - Proteger la libertad de expresión

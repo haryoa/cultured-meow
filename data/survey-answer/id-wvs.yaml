@@ -1,0 +1,40 @@
+happiness-q46:
+  - 1. Sangat bahagia
+  - 2. Cukup bahagia
+  - 3. Tidak begitu bahagia
+  - 4. Tidah bahagia sama sekali
+trust-q57:
+  - 1. Kebanyakan orang bisa dipercaya
+  - 2. Harus berhati-hati dengan orang lain
+authority-q45:
+  - 1. Baik
+  - 2. Tidak peduli
+  - 3. Buruk
+petition-q209:
+  - 1. Pernah Melakukan
+  - 2. Mungkin akan melakukan
+  - 3. Tidak akan pernah melakukan
+god-q164: [1,2,3,4,5,6,7,8,9,10]
+homosexuality-q182: [1,2,3,4,5,6,7,8,9,10]
+abortion-q184: [1,2,3,4,5,6,7,8,9,10]
+proud-q254:
+  - 1. Sangat bangga
+  - 2. Cukup bangga
+  - 3. Tidak terlalu bangga
+  - 4. Tidak bangga sama sekali
+child-obey1-q8:
+  - Perilaku yang baik
+  - Kemandirian
+  - Bekerja keras
+  - Bertanggung jawab
+  - Berimajinasi
+  - Tenggang rasa dan menghargai orang lain
+  - Hemat
+  - Tekun
+  - Taat pada agama
+  - Patuh
+materialistic-q155:
+  - Menjaga ketertiban bangsa
+  - Memberi kesempatan yang lebih besar pada masyarakat terlibat dalam keputusan pemerintah
+  - Menentang kenaikan harga
+  - Melindungi kebebasan berbicara

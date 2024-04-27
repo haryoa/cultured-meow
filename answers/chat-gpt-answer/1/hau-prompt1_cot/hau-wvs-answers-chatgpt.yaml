@@ -1,0 +1,115 @@
+abortion-q184: 'The question asks for a rating regarding how confident you are in
+  expressing your opinion on a particular matter. You need to choose a number from
+  1 to 10, where 1 indicates not confident at all, and 10 indicates very confident.
+  Your answer should be based on your level of confidence in expressing your opinion.
+
+
+  Given this context:
+
+
+  ```
+
+  [YOUR REASONING]
+
+
+  ||[[5. 6]]||
+
+  ```'
+authority-q45: 'The question is asking about one''s satisfaction with the current
+  government. The options are:
+
+
+  1. good
+
+  2. nothing is happening
+
+  3. bad
+
+
+  Based on the choices provided, the most appropriate answer would be:
+
+
+  ```
+
+  ||[[1. kyau]]||
+
+  ```
+
+
+  This means "good" in response to the question "Satisfied with the current government?"'
+child-obey1-q8: "The question is asking about the most important characteristics that\
+  \ one looks for in a potential partner. In this case, the answer with the most importance\
+  \ would be \"2. Mai yan\u2019cin kai\" which translates to \"Good character.\" Good\
+  \ character is often considered one of the most essential qualities in a partner\
+  \ as it encompasses integrity, honesty, kindness, and other positive attributes\
+  \ that are crucial for a healthy and lasting relationship.\n\nTherefore, the answer\
+  \ is:\n\n||[[2. Mai yan\u2019cin kai]]||"
+god-q164: 'The question asks about the importance of God in your life. You need to
+  answer by choosing a number from 1 to 10, with 1 indicating no importance and 10
+  indicating very important.
+
+
+  Given the description, it seems like the importance of God in your life can range
+  from not important at all (1) to very important (10). Based on your personal beliefs
+  and values, you should choose a number that best reflects how significant God is
+  in your life. Select the most appropriate number based on your evaluation.'
+happiness-q46: "The question is asking about the participant's comfort level with\
+  \ certain activities in a single room. The options are:\n\n1. Cike da Murna/farin\
+  \ ciki (Comfortable with staying alone)\n2. Da dan murna/farin ciki (Comfortable\
+  \ with staying with someone)\n3. Ba ka/ki cikin murna/farin ciki kwarai (Not too\
+  \ comfortable staying alone)\n4. Ba ka/ki cikin murna/farin ciki ko kadan (Not comfortable\
+  \ at all staying alone)\n\nBased on the options given, the participant's response\
+  \ would depend on their level of comfort in the given scenarios. \n\nNow, I will\
+  \ provide the answer using the question's options and structure.\n\n```\n||[[1.\
+  \ Cike da Murna/farin ciki]]||\n```"
+homosexuality-q182: '1. The question is asking for a rating on a scale of 1 to 10
+  regarding whether you would like the person to share their opinion with you.
+
+  2. The response "Ya dace" means "Yes".
+
+  3. Therefore, we should choose the number corresponding to "Ya dace" which is ```10```.
+
+
+  ```
+
+  ||[[10]]||
+
+  ```'
+materialistic-q155: 'The question is asking to identify the most important aspect
+  in a conversation that you consider very important. Then, it asks to identify something
+  you find completely unimportant. Looking at the options provided:
+
+
+  1. Tabbatar da doka da oda a cikin kasa (Ensuring peace and security in the country)
+
+  2. Ba mutane damar fada aji a cikin muhimman shawar warin gwamnati (People cannot
+  freely express their opinions on important government policies)
+
+  3. Fada da hauhawar farashin kayayyaki (Discussing and addressing issues of poverty)
+
+  4. Tabbatar da kiyaye yancin fada aji (Ensuring rapid resolution of conflicts)
+
+
+  My choices for the most important aspect and least important aspect would be:
+
+
+  ```
+
+  ||[[3. Fada da hauhawar farashin kayayyaki, 4. Tabbatar da kiyaye yancin fada aji]]||
+
+  ```'
+petition-q209: "The question asks if you want to read about some political events\
+  \ and individuals. If you are interested, you can choose option 1 to proceed, option\
+  \ 2 to do it later, or option 3 if you do not want to read. \n\nGiven this context,\
+  \ the most appropriate answer would be:\n\n```\n||[[1. Na taba yi]]||\n```"
+proud-q254: "The question in Hausa language is asking \"Do you agree with the decision?\"\
+  \ \n\nGiven the choices:\n1. Kwarai da gaske (Yes, truly)\n2. Sosai kuwa (Just a\
+  \ little)\n3. Ba sosai ba (Not really)\n4. Bana tinkaho da kasa ta (I don't agree\
+  \ with the decision)\n\nIn this case, **\"4. Bana tinkaho da kasa ta\"** is the\
+  \ appropriate answer as it indicates disagreement with the decision.\n\nTherefore,\
+  \ the answer is:\n\n```\n||[[4. Bana tinkaho da kasa ta]]||\n```"
+trust-q57: "The question asks whether the majority of people can trust Idan and his\
+  \ relatives or if it's better to be cautious and keep distance. It's important to\
+  \ err on the side of caution until trust is established. \n\nTherefore, the answer\
+  \ is:\n\n```\n||[[2. Sai anyi taka tsan \u2013 tsan (biyan su a hankali) dasu]]||\n\
+  ```"

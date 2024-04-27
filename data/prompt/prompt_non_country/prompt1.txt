@@ -1,0 +1,7 @@
+Answer the question below concisely with the number provided in the question (wrapped in ```)
+
+```
+{question}
+```
+
+Write your answer: 

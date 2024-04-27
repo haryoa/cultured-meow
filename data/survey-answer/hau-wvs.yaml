@@ -1,0 +1,41 @@
+happiness-q46:
+  - 1. Cike da Murna/farin ciki
+  - 2. Da dan murna/farin ciki
+  - 3. Ba ka/ki cikin murna/farin ciki kwarai
+  - 4. Ba ka/ki cikin murna/farin ciki ko kadan
+trust-q57:
+  - 1. Mafi yauwancin mutane za’a iya amince musu
+  - 2. Sai anyi taka tsan – tsan (biyan su a hankali) dasu
+authority-q45:
+  - 1. kyau
+  - 2. kar ka damu
+  - 3. mugu
+petition-q209:
+  - 1. Na taba yi
+  - 2. Watakila na yi nan gaba
+  - 3. Ba zan taba yi ba
+god-q164: [1,2,3,4,5,6,7,8,9,10]
+homosexuality-q182: [1,2,3,4,5,6,7,8,9,10]
+abortion-q184: [1,2,3,4,5,6,7,8,9,10]
+proud-q254:
+  - Kwarai da gaske
+  - Sosai kuwa
+  - Ba sosai ba
+  - Bana tinkaho da kasa ta
+child-obey1-q8:
+  - Dabi’u nag
+  - Mai yan’cin kai
+  - Mai aiki tuku
+  - Mai kanmun
+  - Mai iya kaga/iya kwatantawa/ganin zuc
+  - Mai hakuri/juriya da ladabi ga jama’a
+  - Thrift, saving money and things
+  - Mai kafewa da nacewa wurin cimma bukatan sa 
+  - Mai kula da a 
+  - Maras son kai
+  - Mai biyaiy
+materialistic-q155:
+  - Tabbatar da doka da oda a cikin kasa
+  - Ba mutane damar fada aji a cikin muhimman shawar warin gwamnati
+  - Fada da hauhawar farashin kayayyaki
+  - Tabbatar da kiyaye yancin fada aji
